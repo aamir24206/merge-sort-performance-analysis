@@ -121,7 +121,7 @@ By eliminating unnecessary merge operations and reducing memory overhead, Merge 
 
 ## Author
 
-**Aamir Moula Shariff**
+**Aamir Mohammed**
 
 Bachelor of Science in Artificial Intelligence  
 American University of Ras Al Khaimah
